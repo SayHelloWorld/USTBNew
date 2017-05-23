@@ -1,0 +1,20 @@
+{
+  "name": "Datajiexi",
+  "version": "0.0.1",
+  "summary": "shujujiexi",
+  "description": "shujujiexi",
+  "homepage": "http://baidu.com",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "license": "MIT",
+  "authors": {
+    "hlq": "hanliqiang@rong360.com"
+  },
+  "source": {
+    "git": "https://github.com/SayHelloWorld/shujujiexi.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "shujujiexi/**/*.{h,m}",
+  "exclude_files": "Classes/Exclude"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - Datajiexi (0.0.1)
+
+DEPENDENCIES:
+  - Datajiexi (from `../shujujiexi`)
+
+EXTERNAL SOURCES:
+  Datajiexi:
+    :path: ../shujujiexi
+
+SPEC CHECKSUMS:
+  Datajiexi: a2d8b76f1299f65d84872892a4bf708323246485
+
+PODFILE CHECKSUM: aa4a66f6a2da700233052c5b836a5a045adb7737
+
+COCOAPODS: 1.1.1

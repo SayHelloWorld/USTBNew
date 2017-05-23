@@ -1,0 +1,487 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1F443F169AE8673877328071F3EF1324 /* Datajiexi-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 13FB84007D0B7868C501CE690BA704E8 /* Datajiexi-dummy.m */; };
+		6C4367C8B4C30E7163A4365DDB1C9FE0 /* NSObject+Ustb.h in Headers */ = {isa = PBXBuildFile; fileRef = DA9B8AA87B86A3BD29750D95FDA05E8A /* NSObject+Ustb.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		70A30F4EFFFC402937A18E73359CE769 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
+		8517FC45E57FC7E7A44E3914A8C461D9 /* Pods-USTBNew-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = D9EA7B1AB16135167DEF6FA0D0D8295A /* Pods-USTBNew-dummy.m */; };
+		8B8257AE1B7E196B249C763451B2C2A4 /* NSObject+Ustb.m in Sources */ = {isa = PBXBuildFile; fileRef = 79D883B7583F07B29E7DC08C47F6288D /* NSObject+Ustb.m */; };
+		B175A8C87D9B132E85B7D081F8699E81 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		663AC1D49BE9A2A4C6F607AFC6D0A557 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 870F15A3847B95BE41A685C5D33391A9;
+			remoteInfo = Datajiexi;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		13FB84007D0B7868C501CE690BA704E8 /* Datajiexi-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Datajiexi-dummy.m"; sourceTree = "<group>"; };
+		27705B052C2BDB0D8CCD272AA747374E /* libDatajiexi.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libDatajiexi.a; path = libDatajiexi.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		333AA763E1420FDD2410E3657F2642B5 /* Pods-USTBNew-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-USTBNew-acknowledgements.markdown"; sourceTree = "<group>"; };
+		3DEB959742A72BD038EFD9D20A100257 /* Pods-USTBNew.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-USTBNew.debug.xcconfig"; sourceTree = "<group>"; };
+		44C368D61073A41262DD90459627967C /* libPods-USTBNew.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-USTBNew.a"; path = "libPods-USTBNew.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		53B2AA1F10FA09BFBD73B420863B7E35 /* Datajiexi-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Datajiexi-prefix.pch"; sourceTree = "<group>"; };
+		6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		75B85B41A521A20DA0D7238E0746F06D /* Pods-USTBNew-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-USTBNew-frameworks.sh"; sourceTree = "<group>"; };
+		79D883B7583F07B29E7DC08C47F6288D /* NSObject+Ustb.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "NSObject+Ustb.m"; sourceTree = "<group>"; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		982C16BBCCDED7F1263EB4770B58FC09 /* Pods-USTBNew-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-USTBNew-acknowledgements.plist"; sourceTree = "<group>"; };
+		CFE8537226F468863931CAD65EA562B0 /* Datajiexi.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Datajiexi.xcconfig; sourceTree = "<group>"; };
+		D9EA7B1AB16135167DEF6FA0D0D8295A /* Pods-USTBNew-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-USTBNew-dummy.m"; sourceTree = "<group>"; };
+		DA9B8AA87B86A3BD29750D95FDA05E8A /* NSObject+Ustb.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NSObject+Ustb.h"; sourceTree = "<group>"; };
+		DB30036656548B27A3713921ADCEC7E3 /* Pods-USTBNew-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-USTBNew-resources.sh"; sourceTree = "<group>"; };
+		EAACE4A1E4C3AB077CFB6126088140C5 /* Pods-USTBNew.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-USTBNew.release.xcconfig"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		71876B90E4AC04606120787DCCCFB282 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B175A8C87D9B132E85B7D081F8699E81 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D8C58945C1F2038F65ACC00162EB926B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				70A30F4EFFFC402937A18E73359CE769 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		648634C5FBB4840AB3ED1AE5BB81B430 /* Pods-USTBNew */ = {
+			isa = PBXGroup;
+			children = (
+				333AA763E1420FDD2410E3657F2642B5 /* Pods-USTBNew-acknowledgements.markdown */,
+				982C16BBCCDED7F1263EB4770B58FC09 /* Pods-USTBNew-acknowledgements.plist */,
+				D9EA7B1AB16135167DEF6FA0D0D8295A /* Pods-USTBNew-dummy.m */,
+				75B85B41A521A20DA0D7238E0746F06D /* Pods-USTBNew-frameworks.sh */,
+				DB30036656548B27A3713921ADCEC7E3 /* Pods-USTBNew-resources.sh */,
+				3DEB959742A72BD038EFD9D20A100257 /* Pods-USTBNew.debug.xcconfig */,
+				EAACE4A1E4C3AB077CFB6126088140C5 /* Pods-USTBNew.release.xcconfig */,
+			);
+			name = "Pods-USTBNew";
+			path = "Target Support Files/Pods-USTBNew";
+			sourceTree = "<group>";
+		};
+		7DB346D0F39D3F0E887471402A8071AB = {
+			isa = PBXGroup;
+			children = (
+				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
+				8DC5C6ECF5800486F28F39403B7A0A92 /* Development Pods */,
+				BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */,
+				947C164838A6AE894AEE2FBDB4B026FA /* Products */,
+				B1269BC482F066986226A4E3BE2803D7 /* Targets Support Files */,
+			);
+			sourceTree = "<group>";
+		};
+		8DC5C6ECF5800486F28F39403B7A0A92 /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				DD200242B6483038750E112A8994E5CE /* Datajiexi */,
+			);
+			name = "Development Pods";
+			sourceTree = "<group>";
+		};
+		947C164838A6AE894AEE2FBDB4B026FA /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				27705B052C2BDB0D8CCD272AA747374E /* libDatajiexi.a */,
+				44C368D61073A41262DD90459627967C /* libPods-USTBNew.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		B1269BC482F066986226A4E3BE2803D7 /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				648634C5FBB4840AB3ED1AE5BB81B430 /* Pods-USTBNew */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				D35AF013A5F0BAD4F32504907A52519E /* iOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		D35AF013A5F0BAD4F32504907A52519E /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
+		DD200242B6483038750E112A8994E5CE /* Datajiexi */ = {
+			isa = PBXGroup;
+			children = (
+				EE1A13D85444DA667D068262E7F9CE3E /* shujujiexi */,
+				FEF228C2F4413CAF8415303E2FF5845F /* Support Files */,
+			);
+			name = Datajiexi;
+			path = ../../shujujiexi;
+			sourceTree = "<group>";
+		};
+		EE1A13D85444DA667D068262E7F9CE3E /* shujujiexi */ = {
+			isa = PBXGroup;
+			children = (
+				DA9B8AA87B86A3BD29750D95FDA05E8A /* NSObject+Ustb.h */,
+				79D883B7583F07B29E7DC08C47F6288D /* NSObject+Ustb.m */,
+			);
+			name = shujujiexi;
+			path = shujujiexi;
+			sourceTree = "<group>";
+		};
+		FEF228C2F4413CAF8415303E2FF5845F /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				CFE8537226F468863931CAD65EA562B0 /* Datajiexi.xcconfig */,
+				13FB84007D0B7868C501CE690BA704E8 /* Datajiexi-dummy.m */,
+				53B2AA1F10FA09BFBD73B420863B7E35 /* Datajiexi-prefix.pch */,
+			);
+			name = "Support Files";
+			path = "../USTBNew/Pods/Target Support Files/Datajiexi";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		07A5FF134A90060BBA6B593E617E0203 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6C4367C8B4C30E7163A4365DDB1C9FE0 /* NSObject+Ustb.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		82ED71325FE4A8B7470BE5295AF58828 /* Pods-USTBNew */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DFA368E783CA714FA3F29B2FFA7ECA3D /* Build configuration list for PBXNativeTarget "Pods-USTBNew" */;
+			buildPhases = (
+				887F692971A1307751B5BCD2EBED85DC /* Sources */,
+				D8C58945C1F2038F65ACC00162EB926B /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				5D6E6A00A7538F4B75031B404447C2C0 /* PBXTargetDependency */,
+			);
+			name = "Pods-USTBNew";
+			productName = "Pods-USTBNew";
+			productReference = 44C368D61073A41262DD90459627967C /* libPods-USTBNew.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		870F15A3847B95BE41A685C5D33391A9 /* Datajiexi */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7EBC8BE5A5C4C276772E1E1FFF880011 /* Build configuration list for PBXNativeTarget "Datajiexi" */;
+			buildPhases = (
+				C030DF6D98FD9559ABA896481F0F796B /* Sources */,
+				71876B90E4AC04606120787DCCCFB282 /* Frameworks */,
+				07A5FF134A90060BBA6B593E617E0203 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Datajiexi;
+			productName = Datajiexi;
+			productReference = 27705B052C2BDB0D8CCD272AA747374E /* libDatajiexi.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D41D8CD98F00B204E9800998ECF8427E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0830;
+				LastUpgradeCheck = 0700;
+			};
+			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
+			productRefGroup = 947C164838A6AE894AEE2FBDB4B026FA /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				870F15A3847B95BE41A685C5D33391A9 /* Datajiexi */,
+				82ED71325FE4A8B7470BE5295AF58828 /* Pods-USTBNew */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		887F692971A1307751B5BCD2EBED85DC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8517FC45E57FC7E7A44E3914A8C461D9 /* Pods-USTBNew-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C030DF6D98FD9559ABA896481F0F796B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1F443F169AE8673877328071F3EF1324 /* Datajiexi-dummy.m in Sources */,
+				8B8257AE1B7E196B249C763451B2C2A4 /* NSObject+Ustb.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		5D6E6A00A7538F4B75031B404447C2C0 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = Datajiexi;
+			target = 870F15A3847B95BE41A685C5D33391A9 /* Datajiexi */;
+			targetProxy = 663AC1D49BE9A2A4C6F607AFC6D0A557 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		1F1D5F243433125ABCCA798AF1059A19 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = CFE8537226F468863931CAD65EA562B0 /* Datajiexi.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/Datajiexi/Datajiexi-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRIVATE_HEADERS_FOLDER_PATH = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = "";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		2EAC64AD35440CD81E3865B7BAFF2FD5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = EAACE4A1E4C3AB077CFB6126088140C5 /* Pods-USTBNew.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				MACH_O_TYPE = staticlib;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+		45FBA701AE73A6E65FBFFF361E6B7933 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 3DEB959742A72BD038EFD9D20A100257 /* Pods-USTBNew.debug.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				MACH_O_TYPE = staticlib;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		56E33363B7C3576396B7658EE372AD26 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = CFE8537226F468863931CAD65EA562B0 /* Datajiexi.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/Datajiexi/Datajiexi-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRIVATE_HEADERS_FOLDER_PATH = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = "";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+		643C76AA582046977B7877822ED7A258 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_REQUIRED = NO;
+				COPY_PHASE_STRIP = NO;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_DEBUG=1",
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				ONLY_ACTIVE_ARCH = YES;
+				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Debug;
+		};
+		C03B8870130C98D1B02B59D003687524 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_REQUIRED = NO;
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_RELEASE=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				643C76AA582046977B7877822ED7A258 /* Debug */,
+				C03B8870130C98D1B02B59D003687524 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		7EBC8BE5A5C4C276772E1E1FFF880011 /* Build configuration list for PBXNativeTarget "Datajiexi" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1F1D5F243433125ABCCA798AF1059A19 /* Debug */,
+				56E33363B7C3576396B7658EE372AD26 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DFA368E783CA714FA3F29B2FFA7ECA3D /* Build configuration list for PBXNativeTarget "Pods-USTBNew" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				45FBA701AE73A6E65FBFFF361E6B7933 /* Debug */,
+				2EAC64AD35440CD81E3865B7BAFF2FD5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+}
